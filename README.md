@@ -11,3 +11,4 @@ I thrive on translating ideas into visually captivating and accessible web/app d
 
 My focus is always on delivering user-centric solutions that are not only technically sound but also visually engaging.
 I aim to bridge the gap between functionality and design, ensuring each project stands out with a refined, professional look.
+
