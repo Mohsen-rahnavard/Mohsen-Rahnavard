@@ -1,13 +1,13 @@
-As a self-taught and passionate Front-End Developer, I specialize in building engaging and dynamic web and app experiences.
-I have a strong foundation in HTML, CSS, JavaScript, and modern frameworks like Vue and React,
-I combine this technical expertise with a passion for creating visually compelling, user-centered interfaces.
+After deciding to leave my university studies I began my journey of learning on my own. I've been a musician for almost 25 years - teaching, composing and publishing books - at the age of 33, I started coding because I believe code is modern art. I love creating, cooking, walking, and especially learning!
 
-My continuous learning journey has equipped me with strong skills in responsive design, cross-browser compatibility, and the latest design tools.
-I thrive on translating ideas into visually captivating and accessible web/app designs.
+I'm a self-taught Front-End Developer | Visual Designer with a focus on creating dynamic, user-centered web and app experiences. Skilled in HTML, CSS, JavaScript
 
-• Design & Front-End Skills: HTML, CSS, JavaScript, GSAP, SCSS, Tailwind, Bootstrap, Vue.js, React.js.
+I love turning ideas from sketches into real, functional products.
+
+• Design & Front-End Skills: HTML, CSS, JavaScript, GSAP, SCSS, Tailwind, Bootstrap, Vue.js, TypeScript, WordPress.
+• Familiarity: React.js, Php.
 • Tools: Git, VS Code, Figma, GIMP, Photoshop. 
 • Focus Areas: User-Centered Design, Responsive Design, Visual, Aesthetics, Cross-Browser Compatibility.
 
-My focus is always on delivering user-centric solutions that are not only technically sound but also visually engaging.
-I aim to bridge the gap between functionality and design, ensuring each project stands out with a refined, professional look.
+
+My Portfolio: https://myportfoliomohsenrahnavard.netlify.app/
