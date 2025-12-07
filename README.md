@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unsplash.com/photos/misty-forest-landscape-with-dark-trees-and-fog-7fP8ONsZcyw" width="150" alt="Hello GIF"/>
+  <img src="https://unsplash.com/photos/misty-forest-landscape-with-dark-trees-and-fog-7fP8ONsZcyw" width="150" alt=""/>
 </p>
 
 <h1 align="center">Mohsen Rahnavard</h1>
